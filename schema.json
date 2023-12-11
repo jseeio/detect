@@ -28,7 +28,7 @@
     }
   ],
 	"design": {
-		"grid": [5, 5]
+		"grid": [4, 7]
 	},
   "inputs": [
     { "name": "classes", "type": "text", "default": "man, woman, room, santa claus" },

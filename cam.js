@@ -3,7 +3,7 @@ class Cam {
     const outputs = document.getElementById('outputs')
     const pre = document.createElement('pre')
     pre.setAttribute('id', 'log')
-    pre.setAttribute('style', 'overflow: scroll; height: 100px;')
+    pre.setAttribute('style', 'overflow: scroll; height: 100px; font-size: 9px;')
     outputs.appendChild(pre)
 
     const videoElement = document.createElement('video')
